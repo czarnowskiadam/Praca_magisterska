@@ -1,0 +1,452 @@
+[
+    {
+        "alg_name": "brute_force",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "brute_force",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "brute_force",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "brute_force",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "brute_force",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "brute_force",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "brute_force",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "brute_force",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "brute_force",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "brute_force",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "bfs",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "bfs",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "bfs",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "bfs",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "bfs",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "bfs",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "bfs",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "bfs",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "bfs",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "bfs",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "depth",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "depth",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "depth",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "depth",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "depth",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "depth",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "depth",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "depth",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "depth",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "depth",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "held_karp",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "held_karp",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "held_karp",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "held_karp",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "held_karp",
+        "nodes_amount": 8,
+        "distance": 2195.246500729173
+    },
+    {
+        "alg_name": "held_karp",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "held_karp",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "held_karp",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "held_karp",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "held_karp",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "nearest_neighbor",
+        "nodes_amount": 10,
+        "distance": 2645.5023550316546
+    },
+    {
+        "alg_name": "nearest_neighbor",
+        "nodes_amount": 10,
+        "distance": 2645.5023550316546
+    },
+    {
+        "alg_name": "nearest_neighbor",
+        "nodes_amount": 10,
+        "distance": 2645.5023550316546
+    },
+    {
+        "alg_name": "nearest_neighbor",
+        "nodes_amount": 10,
+        "distance": 2645.5023550316546
+    },
+    {
+        "alg_name": "nearest_neighbor",
+        "nodes_amount": 10,
+        "distance": 2645.5023550316546
+    },
+    {
+        "alg_name": "nearest_neighbor",
+        "nodes_amount": 30,
+        "distance": 4007.477543091924
+    },
+    {
+        "alg_name": "nearest_neighbor",
+        "nodes_amount": 30,
+        "distance": 4007.477543091924
+    },
+    {
+        "alg_name": "nearest_neighbor",
+        "nodes_amount": 30,
+        "distance": 4007.477543091924
+    },
+    {
+        "alg_name": "nearest_neighbor",
+        "nodes_amount": 30,
+        "distance": 4007.477543091924
+    },
+    {
+        "alg_name": "nearest_neighbor",
+        "nodes_amount": 30,
+        "distance": 4007.477543091924
+    },
+    {
+        "alg_name": "sim_ann",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "sim_ann",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "sim_ann",
+        "nodes_amount": 10,
+        "distance": 2500.9067382662406
+    },
+    {
+        "alg_name": "sim_ann",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "sim_ann",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "sim_ann",
+        "nodes_amount": 30,
+        "distance": 4523.836713258619
+    },
+    {
+        "alg_name": "sim_ann",
+        "nodes_amount": 30,
+        "distance": 3867.1682035011495
+    },
+    {
+        "alg_name": "sim_ann",
+        "nodes_amount": 30,
+        "distance": 4428.412848757483
+    },
+    {
+        "alg_name": "sim_ann",
+        "nodes_amount": 30,
+        "distance": 4203.750968383648
+    },
+    {
+        "alg_name": "sim_ann",
+        "nodes_amount": 30,
+        "distance": 4495.756795843004
+    },
+    {
+        "alg_name": "tabu",
+        "nodes_amount": 10,
+        "distance": 2500.9067382662406
+    },
+    {
+        "alg_name": "tabu",
+        "nodes_amount": 10,
+        "distance": 2645.502355031654
+    },
+    {
+        "alg_name": "tabu",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "tabu",
+        "nodes_amount": 10,
+        "distance": 2580.418449494215
+    },
+    {
+        "alg_name": "tabu",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "tabu",
+        "nodes_amount": 30,
+        "distance": 4614.306220168312
+    },
+    {
+        "alg_name": "tabu",
+        "nodes_amount": 30,
+        "distance": 5437.794890023066
+    },
+    {
+        "alg_name": "tabu",
+        "nodes_amount": 30,
+        "distance": 5391.7571742060545
+    },
+    {
+        "alg_name": "tabu",
+        "nodes_amount": 30,
+        "distance": 5808.799151552384
+    },
+    {
+        "alg_name": "tabu",
+        "nodes_amount": 30,
+        "distance": 5019.7153674362535
+    },
+    {
+        "alg_name": "genetic",
+        "nodes_amount": 10,
+        "distance": 3181.6794558148067
+    },
+    {
+        "alg_name": "genetic",
+        "nodes_amount": 10,
+        "distance": 3357.2085695592414
+    },
+    {
+        "alg_name": "genetic",
+        "nodes_amount": 10,
+        "distance": 3002.450037862302
+    },
+    {
+        "alg_name": "genetic",
+        "nodes_amount": 10,
+        "distance": 3136.1103079792993
+    },
+    {
+        "alg_name": "genetic",
+        "nodes_amount": 10,
+        "distance": 3048.823667578866
+    },
+    {
+        "alg_name": "genetic",
+        "nodes_amount": 30,
+        "distance": 10108.374660069101
+    },
+    {
+        "alg_name": "genetic",
+        "nodes_amount": 30,
+        "distance": 10019.16791279173
+    },
+    {
+        "alg_name": "genetic",
+        "nodes_amount": 30,
+        "distance": 9611.622326885996
+    },
+    {
+        "alg_name": "genetic",
+        "nodes_amount": 30,
+        "distance": 9816.855083650975
+    },
+    {
+        "alg_name": "genetic",
+        "nodes_amount": 30,
+        "distance": 9789.491258058832
+    },
+    {
+        "alg_name": "ant",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "ant",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "ant",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "ant",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "ant",
+        "nodes_amount": 10,
+        "distance": 2493.644524973824
+    },
+    {
+        "alg_name": "ant",
+        "nodes_amount": 30,
+        "distance": 3524.579959717892
+    },
+    {
+        "alg_name": "ant",
+        "nodes_amount": 30,
+        "distance": 3512.5540770136568
+    },
+    {
+        "alg_name": "ant",
+        "nodes_amount": 30,
+        "distance": 3522.3048796671487
+    },
+    {
+        "alg_name": "ant",
+        "nodes_amount": 30,
+        "distance": 3522.3048796671487
+    },
+    {
+        "alg_name": "ant",
+        "nodes_amount": 30,
+        "distance": 3529.963567064264
+    }
+]
