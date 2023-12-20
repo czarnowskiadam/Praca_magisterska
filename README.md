@@ -33,21 +33,28 @@ operations. It is classified as an NP-hard problem, meaning that there is no kno
 algorithm that solves it in a reasonable amount of time for large instances.
 
 App main window:
+
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/dd8c622e-d9c8-46c8-a7fd-f00cb3be2a05)
 
 Random coordinates generation:
+
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/36eb5855-a7c4-4841-875a-4efb64644506)
 
 # Examples
 Visualization of Nearest neighbor:
+
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/54c1f369-b008-4988-b4f9-a3ffc8781d24)
 Solution:
+
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/82ab41fc-0ed3-4928-8ef8-b39524f2d6dc)
 
 Visualization of Genetic algorithm:
+
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/f60595cc-b4fa-484d-9c8d-8f431adcdac2)
 Solution:
+
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/12d3909b-a807-4029-bd19-54a70419296e)
 
 All results:
+
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/8bb873ad-6fbc-4460-aa45-1097cacfed2a)
