@@ -44,6 +44,7 @@ Random coordinates generation:
 Visualization of Nearest neighbor:
 
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/54c1f369-b008-4988-b4f9-a3ffc8781d24)
+
 Solution:
 
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/82ab41fc-0ed3-4928-8ef8-b39524f2d6dc)
@@ -51,6 +52,7 @@ Solution:
 Visualization of Genetic algorithm:
 
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/f60595cc-b4fa-484d-9c8d-8f431adcdac2)
+
 Solution:
 
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/12d3909b-a807-4029-bd19-54a70419296e)
