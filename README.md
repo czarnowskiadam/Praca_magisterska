@@ -57,6 +57,7 @@ Solution:
 
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/12d3909b-a807-4029-bd19-54a70419296e)
 
-All results:
-
+# Results
 ![image](https://github.com/czarnowskiadam/The_visualization_of_solving_the_metric_Traveling_Salesman_Problem/assets/73715546/8bb873ad-6fbc-4460-aa45-1097cacfed2a)
+
+
